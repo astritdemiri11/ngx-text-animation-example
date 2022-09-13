@@ -1,0 +1,17 @@
+text-display {
+  width: 200px;
+  display: block;
+}
+
+div {
+  position: relative;
+  width: 300px;
+}
+
+.background-white {
+  background-color: white;
+}
+
+.background-green {
+  background-color: #0f0;
+}
